@@ -123,8 +123,9 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 
-<hr>
 ## Output:
+<hr>
+
 <img width="816" height="432" alt="exp2 ss" src="https://github.com/user-attachments/assets/830390e7-808f-4eec-a7dc-f1ddb21615f3" />
 
 <h3>Result:</h3>
